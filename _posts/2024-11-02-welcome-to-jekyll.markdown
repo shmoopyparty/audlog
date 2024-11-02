@@ -12,6 +12,7 @@ shmoopy
   <source src="/assets/audio/test_of_audlog.mp3">
 Your browser does not support the audio element.
 </audio>
+Hello test!
 
 ![dog](/assets/dog.jpg)
 
